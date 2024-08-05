@@ -1,0 +1,28 @@
+
+----------Stream Api Practice -------------
+https://medium.com/@bhangalekunal2631996/java-stream-api-coding-interview-questions-and-answers-2a212505e1c6
+
+1.Write a program to find the sum of all elements in a list using Java Stream API
+2.write a program to find and print the maximum element using Java Stream API
+3.Write a program to filter out all the even numbers from a list using Java Stream API
+4.write a program to count the number of strings containing a specific character ‘a’ using Java Stream API.
+5.Write a program to convert a list of strings to uppercase using Java Stream API.
+6.write a program to calculate the average of all the numbers using Java Stream API.
+7.Write a program to sort a list of strings in alphabetical order using Java Stream API.
+8.Given a list of strings, write a program to concatenate all the strings using Java Stream API.
+9.Write a program to find the longest string in a list of strings using Java Stream API.
+10.write a program to find and print the second largest number using Java Stream API.
+11.Write a program to remove all the duplicate elements from a list using Java Stream API.
+12.write a program to find and print the shortest string using Java Stream API.
+13.Write a program to convert a list of integers to a list of their squares using Java Stream API.
+14.write a program to find and print the strings starting with a specific prefix ‘a’ using Java Stream API.
+15.Write a program to find the product of all elements in a list of integers using Java Stream API.
+16.Write a program to find and print the prime numbers using Java Stream API.
+17.Write a program to check if a list of strings contains a specific string using Java Stream API.
+18.write a program to find and print the strings with length greater than a specified value 5 using Java Stream API.
+19.Write a program to filter out all the elements divisible by 3 and 5 from a list of integers using Java Stream API.
+20. write a program to find and print the strings with the maximum length using Java Stream API.
+
+
+
+
